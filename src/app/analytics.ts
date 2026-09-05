@@ -1,6 +1,9 @@
-/** Google Analytics 4。測定IDが空のあいだは何もしない。 */
+/**
+ * Google Analytics 4。シリーズ共通プロパティ（housing / hub と同じ測定ID）。
+ * 測定IDが空のあいだは何もしない。
+ */
 
-const MEASUREMENT_ID = "";
+const MEASUREMENT_ID = "G-2J4CRWHPDB";
 
 declare global {
   interface Window {
