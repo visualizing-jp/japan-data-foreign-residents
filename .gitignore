@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Data pipeline — raw Excel is re-fetchable
+data/raw/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store

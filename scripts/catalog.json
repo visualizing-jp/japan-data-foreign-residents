@@ -1,0 +1,140 @@
+{
+  "2013": {
+    "total_pref_pop": "000022057228",
+    "total_pref_age": "000022057222",
+    "total_city_pop": "000022057229",
+    "total_city_age": "000022057246",
+    "foreign_pref_pop": "000022057446",
+    "foreign_pref_age": "000022057428",
+    "foreign_city_pop": "000022057429",
+    "foreign_city_age": "000022057458"
+  },
+  "2014": {
+    "total_pref_pop": "000025710767",
+    "total_city_pop": "000025711034",
+    "total_city_age": "000025711035",
+    "foreign_pref_pop": "000025711344",
+    "foreign_pref_age": "000025711321",
+    "foreign_city_pop": "000025711322",
+    "foreign_city_age": "000025711630"
+  },
+  "2015": {
+    "total_pref_pop": "000030438567",
+    "total_city_pop": "000030438568",
+    "total_city_age": "000030438669",
+    "foreign_pref_pop": "000030438712",
+    "foreign_pref_age": "000030438693",
+    "foreign_city_pop": "000030438881",
+    "foreign_city_age": "000030438864"
+  },
+  "2016": {
+    "total_pref_pop": "000031429217",
+    "total_pref_age": "000031429251",
+    "total_city_pop": "000031430150",
+    "total_city_age": "000031429218",
+    "foreign_pref_pop": "000031429254",
+    "foreign_pref_age": "000031429258",
+    "foreign_city_pop": "000031429221",
+    "foreign_city_age": "000031429275"
+  },
+  "2017": {
+    "total_pref_pop": "000031598550",
+    "total_pref_age": "000031598570",
+    "total_city_pop": "000031598538",
+    "total_city_age": "000031598539",
+    "foreign_pref_pop": "000031598543",
+    "foreign_pref_age": "000031598553",
+    "foreign_city_pop": "000031598590",
+    "foreign_city_age": "000031598572"
+  },
+  "2018": {
+    "total_pref_pop": "000031736911",
+    "total_pref_age": "000031736912",
+    "total_city_pop": "000031736913",
+    "total_city_age": "000031736914",
+    "foreign_pref_pop": "000031736919",
+    "foreign_pref_age": "000031736920",
+    "foreign_city_pop": "000031736921",
+    "foreign_city_age": "000031736922"
+  },
+  "2019": {
+    "total_pref_pop": "000031843906",
+    "total_pref_age": "000031843907",
+    "total_city_pop": "000031843908",
+    "total_city_age": "000031843909",
+    "foreign_pref_pop": "000031843914",
+    "foreign_pref_age": "000031843915",
+    "foreign_city_pop": "000031843916",
+    "foreign_city_age": "000031843917"
+  },
+  "2020": {
+    "total_pref_pop": "000031971201",
+    "total_pref_age": "000031971202",
+    "total_city_pop": "000031971203",
+    "total_city_age": "000031971230",
+    "foreign_pref_pop": "000031971234",
+    "foreign_pref_age": "000031971235",
+    "foreign_city_pop": "000031971236",
+    "foreign_city_age": "000031971237"
+  },
+  "2021": {
+    "total_pref_pop": "000040306655",
+    "total_pref_age": "000040306657",
+    "total_city_pop": "000040306659",
+    "total_city_age": "000040306661",
+    "foreign_pref_pop": "000040306691",
+    "foreign_pref_age": "000040306692",
+    "foreign_city_pop": "000040306693",
+    "foreign_city_age": "000040306694"
+  },
+  "2022": {
+    "total_pref_pop": "000032224634",
+    "total_pref_age": "000032224635",
+    "total_city_pop": "000032224636",
+    "total_city_age": "000032224637",
+    "foreign_pref_pop": "000032224642",
+    "foreign_pref_age": "000032224643",
+    "foreign_city_pop": "000032224644",
+    "foreign_city_age": "000032224645"
+  },
+  "2023": {
+    "total_pref_pop": "000040306645",
+    "total_pref_age": "000040306646",
+    "total_city_pop": "000040306647",
+    "total_city_age": "000040306648",
+    "foreign_pref_pop": "000040306669",
+    "foreign_pref_age": "000040306671",
+    "foreign_city_pop": "000040306673",
+    "foreign_city_age": "000040306650"
+  },
+  "2024": {
+    "total_pref_pop": "000040306668",
+    "total_pref_age": "000040306670",
+    "total_city_pop": "000040306672",
+    "total_city_age": "000040306674",
+    "foreign_pref_pop": "000040306679",
+    "foreign_pref_age": "000040306680",
+    "foreign_city_pop": "000040306681",
+    "foreign_city_age": "000040306682"
+  },
+  "2025": {
+    "total_pref_pop": "000040306651",
+    "total_pref_age": "000040306652",
+    "total_city_pop": "000040306653",
+    "total_city_age": "000040306654",
+    "foreign_pref_pop": "000040306664",
+    "foreign_pref_age": "000040306686",
+    "foreign_city_pop": "000040306688",
+    "foreign_city_age": "000040306690"
+  },
+  "2026": {
+    "total_pref_pop": "000040479047",
+    "total_pref_age": "000040479048",
+    "total_city_pop": "000040479049",
+    "total_city_age": "000040479050",
+    "foreign_pref_pop": "000040479055",
+    "foreign_pref_age": "000040479056",
+    "foreign_city_pop": "000040479057",
+    "foreign_city_age": "000040479058"
+  }
+}
