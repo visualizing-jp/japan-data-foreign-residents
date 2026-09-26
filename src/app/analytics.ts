@@ -3,7 +3,7 @@
  * 測定IDが空のあいだは何もしない。
  */
 
-const MEASUREMENT_ID = "G-2J4CRWHPDB";
+const MEASUREMENT_ID: string = "G-2J4CRWHPDB";
 
 declare global {
   interface Window {
